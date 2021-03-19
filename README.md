@@ -11,7 +11,7 @@ This script queries the SfB/Lync CDR database (LcsCDR), performing calculations 
 For more infomation and details on how to use the script please see my blog post - https://ucgeek.co/call-accounting/
 
 
-# VERSION HISTORY#  
+# Version History
 * V 0.2 - Feb 2014 - beta: 1st release   
 * V 0.3 - Feb 2014 - beta: Moved data processing to SQL using temporay tables
 * V 0.4 - Mar 2014 - beta: Moved functions outside of script
